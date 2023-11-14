@@ -11,3 +11,26 @@ Este é um projeto de comércio eletrônico desenvolvido utilizando Next.js, uma
   <a href="#web">💻 Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
+
+# Web
+Para executar o projeto
+
+<p align="center">
+  <img alt="Demonstration web" src="./preview/web.jpg" width="70%" height="70%" />
+  <img alt="Demonstration mobile" src="./preview/responsive.jpg" width="20%" height="30%" />
+</p>
+
+
+```sh
+npm run dev
+```
+ou
+```sh
+yarn dev
+```
+
+# Tecnologias
+- [NextJS](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [Lucide](https://lucide.dev/)

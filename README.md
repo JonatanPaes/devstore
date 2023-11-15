@@ -34,3 +34,4 @@ yarn dev
 - [TailwindCSS](https://tailwindcss.com/)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [Lucide](https://lucide.dev/)
+- [Zod](https://zod.dev/)

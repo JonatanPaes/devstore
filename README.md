@@ -22,11 +22,12 @@ Para executar o projeto
 
 
 ```sh
-npm run dev
+pnpm run dev
 ```
-ou
+
+Para executar teste E2E
 ```sh
-yarn dev
+pnpm cypress open
 ```
 
 # Tecnologias

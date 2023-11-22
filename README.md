@@ -12,14 +12,34 @@ Este é um projeto de comércio eletrônico desenvolvido utilizando Next.js, uma
   <a href="#tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+---
+
+# Como Executar?
+
+> Clone o Repositório:
+
+Node version 18.16.0
+
+Clone
+
+```bash
+git clone https://github.com/JonatanPaes/devstore.git
+```
+
+Para executar o projeto utilizando Redux
+
+```bash
+cd devstore
+```
+
+Instale as dependências do projeto
+
+```bash
+pnpm install
+```
+
 # Web
 Para executar o projeto
-
-<p align="center">
-  <img alt="Demonstration web" src="./preview/web.jpg" width="70%" height="70%" />
-  <img alt="Demonstration mobile" src="./preview/responsive.jpg" width="20%" height="30%" />
-</p>
-
 
 ```sh
 pnpm run dev
@@ -29,6 +49,11 @@ Para executar teste E2E
 ```sh
 pnpm cypress docs
 ```
+
+<p align="center">
+  <img alt="Demonstration web" src="./preview/devstore.gif" width="70%" height="70%" />
+</p>
+
 
 # Tecnologias
 - [NextJS](https://nextjs.org/)

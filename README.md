@@ -37,3 +37,4 @@ pnpm cypress open
 - [Lucide](https://lucide.dev/)
 - [Zod](https://zod.dev/)
 - [Cypress](https://www.cypress.io/)
+- [T3 Env](https://env.t3.gg/)

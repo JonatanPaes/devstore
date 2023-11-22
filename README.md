@@ -47,7 +47,7 @@ pnpm run dev
 
 Para executar teste E2E
 ```sh
-pnpm cypress docs
+pnpm cypress run
 ```
 
 <p align="center">

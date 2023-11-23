@@ -55,7 +55,7 @@ export default async function Home() {
         <Link
           key={product.id}
           href={`/product/${product.slug}`}
-          className="group relative col-span-3 row-span-3 flex items-end justify-center overflow-hidden rounded-lg bg-zinc-900"
+          className="group relative col-span-3 row-span-3 flex items-center  justify-center overflow-hidden rounded-lg bg-zinc-900"
         >
           <Image
             src={product.image}

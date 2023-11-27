@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Este é um projeto de comércio eletrônico desenvolvido utilizando Next.js, uma poderosa estrutura de React para construir aplicativos web eficientes e escaláveis. O principal objetivo deste projeto é proporcionar uma experiência prática e de aprendizado na construção de uma aplicação de comércio eletrônico completa, focada em produtos como camisetas, moletons e canecas.
+Este é um projeto de comércio eletrônico desenvolvido utilizando Next.js, uma poderosa estrutura de React para construir aplicativos web eficientes e escaláveis. O principal objetivo deste projeto é proporcionar uma experiência prática e de aprendizado na construção de uma aplicação de comércio eletrônico completa, focada em produtos como camisetas, moletons.
 </p>
 
 <p align="center">
